@@ -1,0 +1,7 @@
+Curl https://api.com/users/mandyjae387-I
+
+Curl-H "AUTHORIZATION:token O AUTH-TOKEN "https://api.github.com
+
+Curl Https://api.github.com/?access_token=OAUTH-Token
+
+/>
